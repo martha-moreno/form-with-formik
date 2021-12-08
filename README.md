@@ -9,26 +9,24 @@
 >- If the username and password pass the above validations, then display the message "Login Successful" in an alert box.
 
 ## Installation
->-  Download public and src folders
+>-  Fork this repository
 >-  Open a command line on your computer and create a react app by running the following instructions:
->>>- npx create-react-app form
->>>- npm install formik --save
 >>>- npm start
->- Now, replace files in the src and public folders with downloaded files and save
 >- Now your React App is running!
 
 ## Built With
->- React js
->- CSS
+>- Create React App
 >- Formik
 
 ## Future Updates
 > Check if a user is already in the database
-> 
+> Add styling
+
 
 ## Links
 >- [My Portfolio](https://martha-moreno.github.io/)
 >- [FORM WITH FORMIK Repo](https://github.com/martha-moreno/form-with-formik)
+>- Live App ()
 
 ## License
 > MIT
