@@ -28,7 +28,7 @@ npm start
 ## Links
 >- [My Portfolio](https://martha-moreno.github.io/)
 >- [FORM WITH FORMIK Repo](https://github.com/martha-moreno/form-with-formik)
->- [Live App] (https://martha-moreno.github.io/form-with-formik/)
+>- [Live App](https://martha-moreno.github.io/form-with-formik/)
 
 ## License
 > MIT
