@@ -11,7 +11,9 @@
 ## Installation
 >-  Fork this repository
 >-  Open a command line on your computer and create a react app by running the following instructions:
+>```
 >>>- npm start
+>>>```
 >- Now your React App is running!
 
 ## Built With
